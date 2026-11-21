@@ -4,7 +4,6 @@
 
 | Campo | Valor |
 |---|---|
-| Estudiante | Josue Llanque |
 | Fecha | 2026-10-02 (reconocimiento inicial: 2026-09-25) |
 | Entorno | WSL2 sobre Windows |
 | Distribución | Ubuntu 26.04.1 LTS (Resolute Raccoon) |
@@ -368,3 +367,4 @@ ESCRIBE AQUÍ, en tus palabras, por qué funciona o no lo propuesto.
   encontró comparando `ip link`, `ip route` e `ip neigh` en ambos extremos, sin
   reconstruir la topología.
 - Esta base permite avanzar a routers con FRRouting, contenedores y BGP.
+
