@@ -2,7 +2,6 @@
 
 | Campo              | Valor                                            |
 | ------------------ | ------------------------------------------------ |
-| Estudiante         | Josue Llanque                                    |
 | Fecha de ejecución | 23 de octubre de 2026                            |
 | Equipo (hostname)  | MSI                                              |
 | Sistema            | Ubuntu 26.04.1 LTS (Resolute Raccoon) sobre WSL2 |
